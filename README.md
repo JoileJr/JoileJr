@@ -22,5 +22,5 @@
   <a href = "mailto:joilejunior2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%ADle-j%C3%BAnior-36607b1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- ![Snake animation](JoileJr)
+  ![Snake animation](https://github.com/JoileJr/JoileJr/blob/output/github-contribution-grid-snake.svg)
 </div>
