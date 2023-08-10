@@ -1,27 +1,49 @@
-### Olá, eu sou o Joile Júnior!!🤙
-#
+# Oie devs 👋
+
+Gosto de desenvolver softwares e ajudar outras pessoas a fazer o mesmo.
+
+## Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```Js
+import Desenvolvedor from "JoileJr";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Joile Junior";
+  area = "Desenvolvimento web";
+  local = "Paranavaí - Paraná";
+}
+
+class Skills extends Desenvolvedor {
+  linguagens = ["Javascript", "Typescript", "Java"];
+  frameworks = ["React", "Angular", "Spring Boot"];
+}
+```
+
+## Linguagens e ferramentas
+
+<code><img height="30" src="https://img.icons8.com/?size=512&id=108784&format=png"></code>
+<code><img height="30" src="https://img.icons8.com/?size=512&id=uJM6fQYqDaZK&format=png"></code>
+<code><img height="30" src="https://img.icons8.com/?size=512&id=NfbyHexzVEDk&format=png"></code>
+<code><img height="30" src="https://img.icons8.com/?size=512&id=71257&format=png"></code>
+<code><img height="30" src="https://img.icons8.com/?size=512&id=13679&format=png"></code>
+<code><img height="30" src="https://img.icons8.com/?size=512&id=90519&format=png"></code>
+<code><img height="30" src="https://img.icons8.com/?size=512&id=UFXRpPFebwa2&format=png"></code>
+<code>
+
+## Status
+
 <div align="center">
   <a href="https://github.com/JoileJr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoileJr&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoileJr&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
-</div>
+## Rede sociais 
 
-#
-
-<div> 
-  <a href="https://instagram.com/joile_jr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+<div align="center">
+ <a href="https://instagram.com/joile_jr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:joilejunior2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%ADle-j%C3%BAnior-36607b1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  ![Snake animation](https://github.com/JoileJr/JoileJr/blob/output/github-contribution-grid-snake.svg)
 </div>
