@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-Sou desenvolvedo de software e estudante de engenharia de software 
+Sou desenvolvedor e estudante de engenharia de software 
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
