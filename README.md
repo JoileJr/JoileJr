@@ -9,8 +9,8 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="70px" width="70px" alt="Warpnet" src="https://media.licdn.com/dms/image/D4D0BAQH4m2dPhFdWxA/company-logo_200_200/0/1702340573445/nextage_agile_development_logo?e=2147483647&v=beta&t=kY5h1dq82z0B-2XMrYb5k1wGfTsv5-LOVQ81nzrqt6w"/>](https://nextage.com.br/)
 
 
-**Estagiário de desenvolvimento** \
-[**Nextage**](https://nextage.com.br/) • Contrato de estágio \
+**Desenvolvedor** \
+[**Nextage**](https://nextage.com.br/) • Full stack \
 Linguagens: `Python`, `TypeScript`, `Java`
 
 <br/>
