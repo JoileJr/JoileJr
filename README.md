@@ -10,7 +10,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 
 **Desenvolvedor** \
-[**Nextage**](https://nextage.com.br/) • Full stack \
+[**Nextage**](https://nextage.com.br/) • Full-time \
 Linguagens: `Python`, `TypeScript`, `Java`
 
 <br/>
