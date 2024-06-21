@@ -11,7 +11,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedor** \
 [**Nextage**](https://nextage.com.br/) • Full-time \
-Linguagens: `TypeScript`, `Java`, `Python`
+Linguagens: `TypeScript`, `Java`, `C#`
 
 <br/>
 
